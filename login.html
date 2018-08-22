@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Video on Demand</title>
+        <link type="text/css" href="css/style.css" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    </head>
+    <body>
+        <div>
+            <div class="header" id="myHeader">
+                <h3>
+                    <a href="index.html"><img class="logo" src="img/123.jpg" ></a>  
+                       
+                    <div class="header-right">
+                        <a href="index.html">Home</a>     
+                        <select >
+                        <option hidden disabled selected>Movies</option>
+                        <option >English</option>
+                        <option >Hindi</option>
+                        <option >Hindi Dubbed</option>
+                    </select>
+                    <select >
+                        <option hidden disabled selected>Series</option>
+                        <option >English</option>
+                        <option >Hindi</option>
+                        <option >Hindi Dubbed</option>
+                    </select>
+                    <select >
+                        <option hidden disabled selected>Genre</option>
+                        <option >Action</option>
+                        <option >Romantic</option>
+                        <option >Comedy</option>
+                    </select>
+                        <a href="login.html">Login</a>
+                        <input type="text" placeholder="Search..">
+                    </div>
+                </h3>
+            </div>
+            
+        </div>
+        <p>
+        <div class="modal">
+
+            <form class="modal-content animate" action="/action_page.php">
+                <div class="imgcontainer">
+                    <img src="img/img_avatar2.png" alt="Avatar" class="avatar">
+                </div>
+
+                <div class="container">
+                    <label for="uname"><b>Username</b></label>
+                    <input type="text" placeholder="Enter Username" name="uname" required>
+
+                    <label for="psw"><b>Password</b></label>
+                    <input type="password" placeholder="Enter Password" name="psw" required>
+
+                    <button type="submit">Login</button>
+                    <label>
+                        <input type="checkbox" checked="checked" name="remember"> Remember me
+                    </label>
+                </div>
+
+                <div class="container" style="background-color:#f1f1f1">
+                   <label style="float:right; margin-top: -10px;"> Forgot <a href="#">Password</a>?</label>
+                </div>   
+            </form>
+        </div>
+        <script>
+            window.onscroll = function() {myFunction()};
+
+            var header = document.getElementById("myHeader");
+            var sticky = header.offsetTop;
+
+            function myFunction() {
+                if (window.pageYOffset > sticky) {
+                    header.classList.add("sticky");
+                } 
+                else {
+                    header.classList.remove("sticky");
+                }
+            }
+        </script>
+    </body>
+</html>
+        
