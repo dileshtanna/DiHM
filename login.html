@@ -9,7 +9,7 @@
     </head>
     <body>
         <div>
-            <div class="header" id="myHeader">
+            <div class="header">
                 <h3>
                     <a href="index.html"><img class="logo" src="img/123.jpg" ></a>  
                        
@@ -40,47 +40,27 @@
             </div>
             
         </div>
-        <p>
-        <div class="modal">
-
-            <form class="modal-content animate" action="/action_page.php">
+        <div class="login-container">
+            <form action="/action_page.php">
                 <div class="imgcontainer">
                     <img src="img/img_avatar2.png" alt="Avatar" class="avatar">
                 </div>
 
                 <div class="container">
-                    <label for="uname"><b>Username</b></label>
-                    <input type="text" placeholder="Enter Username" name="uname" required>
+                    <label for="email"><b>Email</b></label>
+                    <input type="email" placeholder="Enter Email" name="email" required>
 
                     <label for="psw"><b>Password</b></label>
                     <input type="password" placeholder="Enter Password" name="psw" required>
-
-                    <button type="submit">Login</button>
                     <label>
-                        <input type="checkbox" checked="checked" name="remember"> Remember me
+                    <input type="checkbox" checked="checked" name="remember"> Remember me
                     </label>
+                    <p>
+                    <button type="submit">Login</button>
+                    
                 </div>
-
-                <div class="container" style="background-color:#f1f1f1">
-                   <label style="float:right; margin-top: -10px;"> Forgot <a href="#">Password</a>?</label>
-                </div>   
             </form>
         </div>
-        <script>
-            window.onscroll = function() {myFunction()};
-
-            var header = document.getElementById("myHeader");
-            var sticky = header.offsetTop;
-
-            function myFunction() {
-                if (window.pageYOffset > sticky) {
-                    header.classList.add("sticky");
-                } 
-                else {
-                    header.classList.remove("sticky");
-                }
-            }
-        </script>
     </body>
 </html>
         
