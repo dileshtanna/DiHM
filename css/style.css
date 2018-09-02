@@ -207,8 +207,9 @@ font-family:  'Open Sans', sans-serif;
     height: 35px;
     margin-left: 12.5%;
     margin-bottom: 30px;
-    
-    border-radius: 0px;
+    color: black;
+    border: black;
+    border-radius: 10px;
 }
 
 /*LOGIN AND REGISTER PAGE*/
@@ -328,6 +329,20 @@ img.avatar {
 	padding-top: 40px;
 	padding-bottom: 40px;
 	background: #001e3c; /*can be anything, of course*/
+}
+
+#processSectionBlue a{
+	color: #FFFFFF;
+    font-size: 13px;
+    padding-left: 25px;
+    font-family: cursive;
+}
+
+#processSectionWhite a{
+	color: #001e3c;
+    font-size: 13px;
+    padding-left: 25px;
+    font-family: cursive;
 }
 
 .processText{
