@@ -192,13 +192,13 @@ font-family:  'Open Sans', sans-serif;
 /* Navbar ends here */
 
 .center-image{
-    width: 55%;
-    height: 30%;
+    width: 800px;
+    height: 500px;
     align-content: center;
     margin-top: 4%;
-    margin-left: 25%;
-    margin-bottom: 15frpx;  
+    margin-left: 20%;
     border-radius: 8px;
+    padding: 4px 4px 4px 4px;
 
 }
 
@@ -227,6 +227,8 @@ font-family:  'Open Sans', sans-serif;
     height: 30%;
     color: white;
     font-size: 17px;
+    border-radius: 55px;
+
 }
 
 .container {
@@ -374,3 +376,59 @@ img.avatar {
     color: black;
     background: red;
 }
+
+video{
+    margin-left: 15%;
+    width: 70%;
+    margin-top: 5%;
+    height: 70%;
+
+}
+
+/*.video .watch{
+
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+*/
+
+/*slide show*/
+.mySlides {
+    display: none;
+}
+
+.slideshow-container {
+    width: 55%;
+    height: 30%;
+    position: relative;
+    align-content: center;
+    margin-top: 4%;
+    margin-left: 25%;
+    margin-bottom: 15frpx;  
+    border-radius: 8px;
+
+}
+
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+/*slide show*/
+
+
+

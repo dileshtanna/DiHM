@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>DiHM | Video Sharing website</title>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link rel="shortcut icon" href="img/logo.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+
+        body, html {
+            height: 100%;
+            margin: 0;
+            overflow: hidden;
+        }
+
+        </style>
+        <link type="text/css" href="css/style.css" rel="stylesheet">
+        <link type="text/css" href="css/scrolling-nav.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    </head>
+    <body>
+        <div>
+            <header id="navbar" class="header" style="background: linear-gradient(to right, #ffffff , #001e3c); ">
+        <a href="index.html" class="logo"><img src="img/movies.jpg" height="30px;"></a>
+        <input class="menu-btn" type="checkbox" id="menu-btn" />
+        <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+        <ul id="menu" class="menu" style="background-color: transparent;color: white;">
+            <li><a href="index.html" style="color: white;">Home</a></li>
+            
+             <li><div class="dropdown"><a><button class="dropbtn" style="color: white; background-color: transparent;">Movies  <i class="fa fa-caret-down"></i></button></a><div class="dropdown-content">
+              <a href="index.html#englishMovies" onclick="hidenav()">English Movies</a>
+              <a href="index.html#hindiMovies">Hndi Movies</a>
+              <a href="index.html#hindiDubbedMovies">Hindi Dubbed Movies</a>
+                </div></div></li>
+            <li><div class="dropdown"><a><button class="dropbtn" style="color: white; background-color: transparent;">Series  <i class="fa fa-caret-down"></i></button></a><div class="dropdown-content">
+              <a href="index.html#englishSeries">English Series</a>
+              <a href="index.html#hindiSeries">Hindi Series</a>
+              <a href="index.html#hindiDubbedSeries">Hindi Dubbed Series</a>
+                </div></div></li>
+            <li><div class="dropdown"><a><button class="dropbtn" style="color: white; background-color: transparent;">Genre  <i class="fa fa-caret-down"></i></button></a><div class="dropdown-content">
+              <a href="index.html#actionMovies">Action Movies</a>
+              <a href="index.html#romanticMovies">Romantic Movies</a>
+              <a href="index.html#comedyMovies">Comedy Movies</a>
+                </div></div></li>
+            <li><a href="login.html" style="color: white;">Login</a></li>
+            <li><a href="signup.html" style="color: white;">Sign Up</a></li>
+                </ul>
+    </header>
+        </div>
+
+
+<!--        Sign Up PAGE STARTS HERE-->
+        <div id="signUp" >
+        <div id="processSectionWhite">
+        <div class="register-container">
+            <form method="POST" action="register.php" >
+
+                <div class="container">
+                   <h1>Sign Up</h1>
+                    <p>Please fill in this form to create an account.</p>
+                    <hr>
+
+                    <label for="email"><b>Email</b></label>
+                    <input type="email" placeholder="Enter Email" name="email" required>
+
+                    <label for="name"><b>Full Name</b></label>
+                    <input type="text" placeholder="Enter Full Name" name="name" required>
+
+                    <label for="psw"><b>Password</b></label>
+                    <input type="password" placeholder="Enter Password" name="password" required>
+
+                    <label for="psw-repeat"><b>Repeat Password</b></label>
+                    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+
+                    <label>
+                    <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+                    </label>
+
+                    <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
+
+                    <div class="clearfix">
+                        <button type="button" class="cancelbtn" onclick="home()">Cancel</button>
+                        <button type="Submit" class="signupbtn">Sign Up</button>
+                    </div>
+                    
+                </div>
+            </form>
+        </div>
+      </div>  
+        </div>
+<!--        Sign Up PAGE ENDS HERE-->
+
+
+        <script src="js/scrollreveal.min.js"></script>
+        <script src="js/scrolling-nav.js"></script>
+        
+        <script>
+    
+            function home(){
+                window.location.href("#");
+            };
+            
+    window.sr = ScrollReveal({reset: true });
+ 
+    sr.reveal('.register-container', {duration: 1000, origin: 'left', scale: 0.5});
+
+
+    function myFunction() {
+        var x = document.getElementById("navbar");
+        if (x.className === "navbar") {
+            x.className += " responsive";
+        } else {
+            x.className = "navbar";
+        }
+    }
+
+    function hidenav(){
+        var y = document.getElementById("menubutton");  
+    }
+
+</script>
+    </body>
+</html>
