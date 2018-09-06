@@ -297,7 +297,14 @@ img.avatar {
     height: 250px;
     padding: 15px 15px 15px 15px;
     align-content: center;
+    
 }
+
+
+.lazy:hover{
+    transform: rotateX(10deg);
+}
+
 
 .lazy{
     width: 180px;
