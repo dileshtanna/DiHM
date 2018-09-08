@@ -1,4 +1,6 @@
 <?php
+    session_start();
+
    include("config.php");
    // error_reporting(0);
    //if(isset($_POST['submit'])) { 
@@ -10,8 +12,8 @@
        $query = "select * from users where email='$formEmail' and password='$formPassword'";
        $data = mysql_query ($query) or die(mysql_error());
         if($data) {
-         $_SESSION['email']= $email;
-         header('Location: index.html');
+         $_SESSION['email']= $formEmail;
+         header('Location: index.php');
          }
 
       //}
