@@ -9,7 +9,7 @@
        $formEmail = $_POST['email']; 
        $formPassword = $_POST['password']; 
       // echo "'$email','$password','$fullname'";
-       $query = "select * from users where email='$formEmail' and password='$formPassword'";
+       $query = "select id from users where email='$formEmail' and password='$formPassword'";
        $data = mysql_query ($query) or die(mysql_error());
         if($data) {
          $_SESSION['email']= $formEmail;

@@ -133,7 +133,7 @@
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
 
 		      </a> 
-                                <button class="buyNowBtnBlue" style="margin-left: 15px;" id="001">Buy Now</button>
+                                <button class="buyNowBtn  buyNowBtnBlue" style="margin-left: 15px;" id="001">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
 
             </div>
@@ -141,7 +141,7 @@
                 <a href="actionMovies.html"> 
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
                 </a> 
-                                 <button class="buyNowBtnBlue" style="margin-left: 15px;" id="002">Buy Now</button>
+                                 <button class="buyNowBtn  buyNowBtnBlue" style="margin-left: 15px;" id="002">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
             </div>
             <div class="block">
@@ -149,7 +149,7 @@
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
 
 		      </a> 
-                 <button class="buyNowBtnBlue" style="margin-left: 15px;" id="003">Buy Now</button>
+                 <button class="buyNowBtn  buyNowBtnBlue" style="margin-left: 15px;" id="003">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
             </div>
             <div class="block">
@@ -157,7 +157,7 @@
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
 
 		      </a> 
-                <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
             </div>
             <div class="block">
@@ -165,41 +165,41 @@
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
 
 		      </a> 
-                 <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                 <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
             </div><div class="block">
                 <a href="actionMovies.html"> 
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
 
 		      </a> 
-                              <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                              <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
             </div><div class="block">
                 <a href="actionMovies.html"> 
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
 
 		      </a> 
-                           <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                           <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
             </div><div class="block">
                 <a href="actionMovies.html"> 
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
 
 		      </a> 
-                              <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                              <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
             </div><div class="block">
                 <a href="actionMovies.html"> 
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
 
 		      </a> 
-                              <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                              <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
             </div><div class="block">
                 <a href="actionMovies.html"> 
 			         			<img class="lazy" src="img/furious.jpg" alt="Watch Furious (2017) Fmovies">
 
-		      </a>  <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+		      </a>  <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a href="https://www.youtube.com/watch?v=Fnf4TdaOJYg" target="_blank">Watch Trailer</a>
             </div>
                  
@@ -221,70 +221,70 @@
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a>
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiMovies"> 
 			             <img class="lazy" src="img/1921.jpg" alt="Watch 1921 (2018) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                 </div>
@@ -302,7 +302,7 @@
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -310,63 +310,63 @@
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiDubbedMovies"> 
 			             <img class="lazy" src="img/theFifthEstate.jpg" alt="Watch The Fifth Estate (2013) Fmovies">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -387,7 +387,7 @@
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -395,63 +395,63 @@
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#englishSeries"> 
 			             <img class="lazy" src="img/orangeIsTheNewBlack.jpg" alt="Watch Orange Is the New Black Season 6 ">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -473,7 +473,7 @@
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -481,63 +481,63 @@
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#hindiSeries"> 
 			             <img class="lazy" src="img/ghoul.jpg" alt="Watch Ghoul Season 1">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -555,7 +555,7 @@
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -563,63 +563,63 @@
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                         <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                         <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                         <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                         <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                         <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                         <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                         <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                         <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#hindiDubbedSeries"> 
 			             <img class="lazy" src="img/poldark.jpg" alt="Watch Poldark Season 4">
 		                  </a> 
-                         <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -640,7 +640,7 @@
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -648,63 +648,63 @@
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                         <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                         <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                         <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                         <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                         <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                         <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                         <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                      <div class="block">
                         <a href="#actionMovies"> 
 			             <img class="lazy" src="img/concealed.jpg" alt="Watch Concealed (2017)">
 		                  </a> 
-                         <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                         <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -726,7 +726,7 @@
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -734,63 +734,63 @@
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#romanticMovies"> 
 			             <img class="lazy" src="img/whatIfItWorks.jpg" alt="Watch What If It Works? (2017)">
 		                  </a> 
-                        <button class="buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnWhite" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -809,7 +809,7 @@
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -817,63 +817,63 @@
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     <div class="block">
                         <a href="#comedyMovies"> 
 			             <img class="lazy" src="img/theNinthPassenger.jpg" alt="Watch The Ninth Passenger (2018)">
 		</a>  
-                        <button class="buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
+                        <button class="buyNowBtn  buyNowBtnBlue" id="watch" style="margin-left: 15px;">Buy Now</button>
                                 <a>Watch Trailer</a>
                     </div>
                     
@@ -885,6 +885,7 @@
         
 <!--        COMEDY MOVIES END HERE-->
         
+<!-- Video Modal -->
         <div id="video-modal" class="modal">
             <div class="modal-content">
                 <span class="close">&times;</span>
@@ -920,7 +921,7 @@
         }
 	
             function home(){
-                window.location.href("#");
+                window.location.href("index.php");
             };
             
 	window.sr = ScrollReveal({reset: true });
@@ -956,38 +957,35 @@
             /* SLIDE SHOW*/
             
             var slideIndex = 0;
-showSlides();
+            showSlides();
 
-function showSlides() {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    
-    for (i = 0; i < slides.length; i++) {
-       slides[i].style.display = "none";  
-    }
-    slideIndex++;
-    if (slideIndex > slides.length) {slideIndex = 1}    
-    slides[slideIndex-1].style.display = "block";  
-    setTimeout(showSlides, 3000); // Change image every 3 seconds
-}
+            function showSlides() {
+                var i;
+                var slides = document.getElementsByClassName("mySlides");
+                
+                for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";  
+                }
+                slideIndex++;
+                if (slideIndex > slides.length) {slideIndex = 1}    
+                slides[slideIndex-1].style.display = "block";  
+                setTimeout(showSlides, 3000); // Change image every 3 seconds
+            }
             
             /* Video Modal*/
             var modal = document.getElementById('video-modal');
 
             // Get the button that opens the modal
-            var btn = document.getElementsByClassName("buyNowBtnBlue");
+            var btn = document.getElementsByClassName("buyNowBtn");
 
             // Get the <span> element that closes the modal
             var span = document.getElementsByClassName("close")[0];
 
-            // When the user clicks the button, open the modal 
-//            btn.onclick = function showModal() {
-//                modal.style.display = "block";
-//            }
+            
             var showModal = function() {
                 modal.style.display = "block";
             };
-
+            
             for (var i = 0; i < btn.length; i++) {
                 btn[i].addEventListener('click', showModal, false);
             }
@@ -1001,6 +999,7 @@ function showSlides() {
             span.onclick = function() {
                 modal.style.display = "none";
                 stopVideo();
+                document.location.reload(true);
             }
             
 
@@ -1009,6 +1008,7 @@ function showSlides() {
                 if (event.target == modal) {
                     modal.style.display = "none";
                     stopVideo();
+                    document.location.reload(true);
                 }
             }
             
@@ -1018,6 +1018,7 @@ function showSlides() {
                if (key == 27) {
                    modal.style.display = "none";
                     stopVideo();
+                    document.location.reload(true);
                }
         }
             

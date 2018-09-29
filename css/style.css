@@ -510,9 +510,8 @@ video{
 }
 
 
-.buyNowBtnBlue{
+.buyNowBtn {
     background-color: Transparent;
-    color: #FFFFFF;
     font-size: 13px;
     padding-left: 25px;
     font-family: cursive;
@@ -522,14 +521,10 @@ video{
 }
 
 .buyNowBtnWhite{
-    background-color: Transparent;
     color: #001e3c;
-    font-size: 13px;
-    padding-left: 25px;
-    font-family: cursive;
-    border: none;
-    text-decoration: underline;
-    cursor: pointer;
+}
+.buyNowBtnBlue{
+    color: #FFFFFF;
 }
 
 /* Modal for video ends*/
