@@ -925,7 +925,7 @@
             };
             
 	window.sr = ScrollReveal({reset: true });
-	sr.reveal('#home', {duration: 500, origin: 'right', scale: 0.5});
+	sr.reveal('#home', {dura tion: 500, origin: 'right', scale: 0.5});
 	sr.reveal('.block', {duration: 1000, origin: 'left', scale: 0.5});
 //	sr.reveal('#signUp', {duration: 1000, origin: 'left', scale: 0.5});
 	sr.reveal('.processText', {duration: 1000, origin: 'left', scale: 0.5});
@@ -941,18 +941,18 @@
 
 
 
-	function myFunction() {
-	    var x = document.getElementById("navbar");
-	    if (x.className === "navbar") {
-	        x.className += " responsive";
-	    } else {
-	        x.className = "navbar";
-	    }
-	}
+	// function myFunction() {
+	//     var x = document.getElementById("navbar");
+	//     if (x.className === "navbar") {
+	//         x.className += " responsive";
+	//     } else {
+	//         x.className = "navbar";
+	//     }
+	// }
 
-	function hidenav(){
-		var y = document.getElementById("menubutton");	
-	}
+	// function hidenav(){
+	// 	var y = document.getElementById("menubutton");	
+	// }
 
             /* SLIDE SHOW*/
             

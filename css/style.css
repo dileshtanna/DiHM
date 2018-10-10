@@ -50,13 +50,13 @@ font-family:  'Open Sans', sans-serif;
 
 /* menu */
 
-.header .menu {
+/* .header .menu {
   clear: both;
   max-height: 0;
   transition: max-height .2s ease-out;
 }
 
-/* menu icon */
+menu icon
 
 .header .menu-icon {
   cursor: pointer;
@@ -93,11 +93,11 @@ font-family:  'Open Sans', sans-serif;
 
 .header .menu-icon .navicon:after {
   top: -5px;
-}
+} */
 
 /* menu btn */
 
-.header .menu-btn {
+/* .header .menu-btn {
   display: none;
 }
 
@@ -139,7 +139,7 @@ font-family:  'Open Sans', sans-serif;
   .header .menu-icon {
     display: none;
   }
-}
+} */
 
 /* Dropdown starts here*/
 /* The dropdown container */

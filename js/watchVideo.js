@@ -1,9 +1,11 @@
 //$("#video-modal").change(function(){
     
-    $(".buyNowBtnBlue").click(function(){
+    $(".buyNowBtn").click(function(){
     
         var vid = this.id;
-        alert(vid);
+        // alert(vid);
+       // vid = parseInt(vid) % 2;
+       // alert(vid);
         var video = document.getElementById('myVideoPlayer').src='vid/'+vid+'.mp4';
         // var source = document.createElement('source');
 
@@ -12,17 +14,17 @@
         // video.appendChild(source);
         video.play();
     });
-$(".buyNowBtnWhite").click(function(){
+// $(".buyNowBtn").click(function(){
     
-        var vid = this.id;
-        alert(vid);
-        var video = document.getElementById('myVideoPlayer');
-        var source = document.createElement('source');
+//         var vid = this.id;
+//         alert(vid);
+//         var video = document.getElementById('myVideoPlayer');
+//         var source = document.createElement('source');
 
-        source.setAttribute('src', 'vid/'+vid+'.mp4');
+//         source.setAttribute('src', 'vid/'+vid+'.mp4');
 
-        video.appendChild(source);
-        video.play();
-    });
+//         video.appendChild(source);
+//         video.play();
+//     });
 //});
 

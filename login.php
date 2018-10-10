@@ -2,9 +2,7 @@
     session_start();
 
    include("config.php");
-   // error_reporting(0);
-   //if(isset($_POST['submit'])) { 
-        // echo "working";
+   
        
        $formEmail = $_POST['email']; 
        $formPassword = $_POST['password']; 
@@ -16,6 +14,5 @@
          header('Location: index.php');
          }
 
-      //}
      
 ?>
